@@ -1,17 +1,3 @@
-/********************************************************************************
-* WEB422 – Assignment 6
-*
-* I declare that this assignment is my own work in accordance with Seneca's
-* Academic Integrity Policy:
-*
-* https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
-*
-* Name: Lap Chi Wong    Student ID: 112867221   Date: 31 March 2024
-*
-* Vercel App (Deployed) Link: https://web422-lap-chi-wong.vercel.app/
-*
-********************************************************************************/
-
 import { Image, Row, Col } from "react-bootstrap";
 
 export default function Home() {
